@@ -1,0 +1,74 @@
+[
+  {
+      "question": "Who was the first human to walk on the moon?",
+      "options": "Buzz Aldrin",
+      "optionsa": "Yuri Gagarin",
+      "optionb": "Neil Armstrong",
+      "optionc": "Michael Collins",
+      "answer": "Neil Armstrong"
+  },
+  {
+      "question": "Which space agency launched the Mars Rover 'Perseverance'?",
+      "options": "ISRO",
+      "optionsa": "NASA",
+      "optionb": "ESA",
+      "optionc": "Roscosmos",
+      "answer": "NASA"
+  },
+  {
+      "question": "What is the name of the telescope launched by NASA to replace the Hubble Space Telescope?",
+      "options": "Kepler Space Telescope",
+      "optionsa": "Spitzer Space Telescope",
+      "optionb": "James Webb Space Telescope",
+      "optionc": "Chandra X-ray Observatory",
+      "answer": "James Webb Space Telescope"
+  },
+  {
+      "question": "What is the primary purpose of the International Space Station (ISS)?",
+      "options": "Tourism",
+      "optionsa": "Military Surveillance",
+      "optionb": "Scientific Research",
+      "optionc": "Broadcasting TV Signals",
+      "answer": "Scientific Research"
+  },
+  {
+      "question": "Which planet is the target of the SpaceX's Starship?",
+      "options": "Venus",
+      "optionsa": "Mars",
+      "optionb": "Jupiter",
+      "optionc": "Saturn",
+      "answer": "Mars"
+  },
+  {
+      "question": "What is the name of the first successful Mars Rover?",
+      "options": "Curiosity",
+      "optionsa": "Opportunity",
+      "optionb": "Spirit",
+      "optionc": "Sojourner",
+      "answer": "Sojourner"
+  },
+  {
+      "question": "What is the name of the first woman who went to space?",
+      "options": "Sally Ride",
+      "optionsa": "Valentina Tereshkova",
+      "optionb": "Mae Jemison",
+      "optionc": "Eileen Collins",
+      "answer": "Valentina Tereshkova"
+  },
+  {
+      "question": "What is the name of the SpaceX program aiming to provide internet connectivity using satellites?",
+      "options": "Starlink",
+      "optionsa": "Skylink",
+      "optionb": "SpaceNet",
+      "optionc": "AstroNet",
+      "answer": "Starlink"
+  },
+  {
+      "question": "What is the phenomenon that allows black holes to emit small amounts of thermal radiation?",
+      "options": "Hawking Radiation",
+      "optionsa": "Chandrasekhar Limit",
+      "optionb": "Schwarzschild Radius",
+      "optionc": "Einstein Shift",
+      "answer": "Hawking Radiation"
+  }
+]

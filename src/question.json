@@ -1,0 +1,874 @@
+[
+  {
+    "question": "What will be the relation between E (young modulus of Elasticity) and bulk modulus K when µ (Poisson’s ratio) = 0.25?",
+    "options": "E = K",
+    "optionsa": "E = 2K",
+    "optionb": "E = 1.5K",
+    "optionc": "E = K = 0",
+    "answer": "E = 2K"
+  },
+  {
+    "question": "What will be Poisson’s ratio if bulk modulus and modulus of rigidity are K and G respectively?",
+    "options": "3K + 2G / 6K - 2G",
+    "optionsa": "3K - 2G / 6K + 2G",
+    "optionb": "3K + 4G / 6K - 4G",
+    "optionc": "3K - 4G / 6K + 4G",
+    "answer": "3K + 2G / 6K - 2G"
+  },
+  {
+    "question": "An axial tensile force is acting on a body and normal strain in axial direction is 1.25 mm/m. If Poisson’s ratio 0.3, what will be the volumetric strain in the body?",
+    "options": "5 x 10^-4",
+    "optionsa": "4 x 10^-4",
+    "optionb": "1.3 x 10^-4",
+    "optionc": "1.7 x 10^-4",
+    "answer": "4 x 10^-4"
+  },
+  {
+    "question": "Match List I with List II and select the correct answer from the codes given below the lists. List I: A. Young modulus, B. Poisson’s ratio, C. Bulk modulus, D. Rigidity modulus. List II: 1. Lateral strain to longitudinal strain within elastic limit, 2. Stress strain within elastic limit, 3. Shear stress to shear strain within elastic limit, 4. Direct stress to corresponding volumetric strain. Codes: A B C D",
+    "options": "2 1 4 3",
+    "optionsa": "3 1 4 2",
+    "optionb": "3 4 1 2",
+    "optionc": "2 4 1 3",
+    "answer": "2 1 4 3"
+  },
+  {
+    "question": "A point in a strained body is subjected to a tensile stress of 100 MPa on one plane and a tensile stress of 50 MPa on a plane at right angles to it. If these planes are carrying shear stresses of 50 MPa, then principal stresses are inclined to the layer normal stress at an angle",
+    "options": "12tan^-1(1/2)",
+    "optionsa": "12tan^-1(2)",
+    "optionb": "12tan^-1(3)",
+    "optionc": "12tan^-1(1/3)",
+    "answer": "12tan^-1(1/2)"
+  },
+  {
+    "question": "If a simply supported beam of span 1 carries over its full span a load varying linearly from zero at each end to w/unit length at midspan, then maximum bending moment occurs at",
+    "options": "quarter points and is equal to wl^2/8",
+    "optionsa": "quarter points and is equal to wl^2/12",
+    "optionb": "midspan and is equal to wl^2/8",
+    "optionc": "midspan and is equal to wl^2/12",
+    "answer": "midspan and is equal to wl^2/8"
+  },
+  {
+    "question": "Slope at the end of a simply supported beam of span 2m and load 5kg/unit length over the entire span will be",
+    "options": "1/16EI",
+    "optionsa": "5/3 x 1EI",
+    "optionb": "2/6 x 1EI",
+    "optionc": "1/6EI",
+    "answer": "1/16EI"
+  },
+  {
+    "question": "If a simply supported beam of circular cross section with diameter d and length l carries a concentrated load W at the centre of the beam then strength of the beam is proportional to",
+    "options": "1/D^3",
+    "optionsa": "1/D^2",
+    "optionb": "D^3",
+    "optionc": "D^2",
+    "answer": "D^3"
+  },
+  {
+    "question": "When both ends of a column are fixed the crippling load is F. If one end of the column is made free then value of crippling load will be changed to",
+    "options": "F/4",
+    "optionsa": "F/2",
+    "optionb": "F/16",
+    "optionc": "4F",
+    "answer": "F/16"
+  },
+  {
+    "question": "From Rankine’s hypothesis, Rankine criteria for failure of brittle material is",
+    "options": "maximum principal stress",
+    "optionsa": "maximum strain energy",
+    "optionb": "maximum shear stress",
+    "optionc": "maximum shear strain energy",
+    "answer": "maximum principal stress"
+  },
+  {
+    "question": "What will be the relation between E (young modulus of Elasticity) and bulk modulus K when µ (Poisson’s ratio) = 0.25?",
+    "options": "E = K",
+    "optionsa": "E = 2K",
+    "optionb": "E = 1.5K",
+    "optionc": "E = K = 0",
+    "answer": "E = 2K"
+  },
+  {
+    "question": "What will be Poisson’s ratio if bulk modulus and modulus of rigidity are K and G respectively?",
+    "options": "3K + 2G / 6K - 2G",
+    "optionsa": "3K - 2G / 6K + 2G",
+    "optionb": "3K + 4G / 6K - 4G",
+    "optionc": "3K - 4G / 6K + 4G",
+    "answer": "3K + 2G / 6K - 2G"
+  },
+  {
+    "question": "An axial tensile force is acting on a body and normal strain in axial direction is 1.25 mm/m. If Poisson’s ratio 0.3, what will be the volumetric strain in the body?",
+    "options": "5 x 10^-4",
+    "optionsa": "4 x 10^-4",
+    "optionb": "1.3 x 10^-4",
+    "optionc": "1.7 x 10^-4",
+    "answer": "4 x 10^-4"
+  },
+  {
+    "question": "Match List I with List II and select the correct answer from the codes given below the lists. List I: A. Young modulus, B. Poisson’s ratio, C. Bulk modulus, D. Rigidity modulus. List II: 1. Lateral strain to longitudinal strain within elastic limit, 2. Stress strain within elastic limit, 3. Shear stress to shear strain within elastic limit, 4. Direct stress to corresponding volumetric strain. Codes: A B C D",
+    "options": "2 1 4 3",
+    "optionsa": "3 1 4 2",
+    "optionb": "3 4 1 2",
+    "optionc": "2 4 1 3",
+    "answer": "2 1 4 3"
+  },
+  {
+    "question": "A point in a strained body is subjected to a tensile stress of 100 MPa on one plane and a tensile stress of 50 MPa on a plane at right angles to it. If these planes are carrying shear stresses of 50 MPa, then principal stresses are inclined to the layer normal stress at an angle",
+    "options": "12tan^-1(1/2)",
+    "optionsa": "12tan^-1(2)",
+    "optionb": "12tan^-1(3)",
+    "optionc": "12tan^-1(1/3)",
+    "answer": "12tan^-1(1/2)"
+  },
+  {
+    "question": "If a simply supported beam of span 1 carries over its full span a load varying linearly from zero at each end to w/unit length at midspan, then maximum bending moment occurs at",
+    "options": "quarter points and is equal to wl^2/8",
+    "optionsa": "quarter points and is equal to wl^2/12",
+    "optionb": "midspan and is equal to wl^2/8",
+    "optionc": "midspan and is equal to wl^2/12",
+    "answer": "midspan and is equal to wl^2/8"
+  },
+  {
+    "question": "Slope at the end of a simply supported beam of span 2m and load 5kg/unit length over the entire span will be",
+    "options": "1/16EI",
+    "optionsa": "5/3 x 1EI",
+    "optionb": "2/6 x 1EI",
+    "optionc": "1/6EI",
+    "answer": "1/16EI"
+  },
+  {
+    "question": "If a simply supported beam of circular cross section with diameter d and length l carries a concentrated load W at the centre of the beam then strength of the beam is proportional to",
+    "options": "1/D^3",
+    "optionsa": "1/D^2",
+    "optionb": "D^3",
+    "optionc": "D^2",
+    "answer": "D^3"
+  },
+  {
+    "question": "When both ends of a column are fixed the crippling load is F. If one end of the column is made free then value of crippling load will be changed to",
+    "options": "F/4",
+    "optionsa": "F/2",
+    "optionb": "F/16",
+    "optionc": "4F",
+    "answer": "F/16"
+  },
+  {
+    "question": "From Rankine’s hypothesis, Rankine criteria for failure of brittle material is",
+    "options": "maximum principal stress",
+    "optionsa": "maximum strain energy",
+    "optionb": "maximum shear stress",
+    "optionc": "maximum shear strain energy",
+    "answer": "maximum principal stress"
+  },
+  {
+    "question": "If internal radius of a hollow shaft is 15 times the external radius then ratio of torques carried by hollow shaft and solid shaft of same cross sectional area and subjected to the same maximum shearing stress will be",
+    "options": "174√6",
+    "optionsa": "135 x √6",
+    "optionb": "15√7",
+    "optionc": "67",
+    "answer": "174√6"
+  },
+  {
+    "question": "If an element is subjected to pure shearing stress τ then maximum principal stress is equal to",
+    "options": "2τ",
+    "optionsa": "τ/2",
+    "optionb": "τ",
+    "optionc": "1-τ/2",
+    "answer": "τ"
+  },
+  {
+    "question": "A brittle material of 4 sq. cm cross section carries an axial tensile load of 20t. What will be the maximum shear stress in the block?",
+    "options": "2500 kg/cm2",
+    "optionsa": "1000 kg/cm2",
+    "optionb": "500 kg/cm2",
+    "optionc": "1500 kg/cm2",
+    "answer": "2500 kg/cm2"
+  },
+  {
+    "question": "Maximum allowable shear stress in a section is 100kg/cm2. if bar is subjected a tensile force of 5000kg and the section is square shaped then what will be dimension of sides of the square?",
+    "options": "10 cm",
+    "optionsa": "5 cm",
+    "optionb": "12 cm",
+    "optionc": "12cm",
+    "answer": "10 cm"
+  },
+  {
+    "question": "A simply supported beam of span L carries a concentrated load P at midspan. If d be the width of the beam being constant and its depth varying through out its length of the spans what will be its midspan depth when design stress is f?",
+    "options": "6PL/d",
+    "optionsa": "√6PL/d",
+    "optionb": "√3PL/2d",
+    "optionc": "3WL/2d",
+    "answer": "√6PL/d"
+  },
+  {
+    "question": "Dimension of the flexural rigidity of a beam element in mass (M) and length (L) and time (T) is given by",
+    "options": "ML3T-2",
+    "optionsa": "ML-2",
+    "optionb": "M-1T2",
+    "optionc": "ML-1T-2",
+    "answer": "ML3T-2"
+  },
+  {
+    "question": "What is the limiting value of Poisson’s ratio?",
+    "options": "0 and 0.5",
+    "optionsa": "1 and -0.5",
+    "optionb": "-1 and -0.5",
+    "optionc": "-1 and 0.5",
+    "answer": "0 and 0.5"
+  },
+  {
+    "question": "A prismatic bar of volume V is subjected to a tensile force in longitudinal direction. If Poisson’s ratio of the material is µ and longitudinal strain is e then final volume of the bar becomes",
+    "options": "(1 + e)(1- µ)^2V",
+    "optionsa": "(1-e)^2 (1 + µe)V",
+    "optionb": "(1 + e)(1-µe)^2V",
+    "optionc": "(1-µe)^2V",
+    "answer": "(1 + e)(1-µe)^2V"
+  },
+  {
+    "question": "When a member is subjected to axial tensile load the greatest normal stress is equal to",
+    "options": "half the maximum shear stress",
+    "optionsa": "maximum shear stress",
+    "optionb": "twice the maximum shear stress",
+    "optionc": "none of the above",
+    "answer": "twice the maximum shear stress"
+  },
+  {
+    "question": "Difference in ordinate of the shear curve between any two section is equal to the area under",
+    "options": "load curve between these two sections plus concentrated load applied between the sections",
+    "optionsa": "bending moment curve between these two section",
+    "optionb": "shear curve between these two sections",
+    "optionc": "load curve between these two section",
+    "answer": "load curve between these two sections plus concentrated load applied between the sections"
+  },
+  {
+    "question": "If maximum angle of obliquity ∅max is 60° then plane of maximum obliquity is inclined to major principle plane at angle",
+    "options": "115°",
+    "optionsa": "75°",
+    "optionb": "15°",
+    "optionc": "105°",
+    "answer": "75°"
+  },
+  {
+    "question": "If a thin walled hollow square and circular section have same thickness and area subjected to same torque then",
+    "options": "circular section is stronger than square section",
+    "optionsa": "square section is stronger than circular section",
+    "optionb": "both square and circular have same strength",
+    "optionc": "cannot be judged by data’s given",
+    "answer": "square section is stronger than circular section"
+  },
+  {
+    "question": "If cross section of a bar is subjected to uniaxial tensile stress p then tangential stress on a plane inclined at θ to the cross section of the bar would be",
+    "options": "p sin 2θ",
+    "optionsa": "p cos2θ/2",
+    "optionb": "p sin2θ/2",
+    "optionc": "p cos 2θ",
+    "answer": "p sin 2θ"
+  },
+  {
+    "question": "If a shaft of diameter d and length l has been loaded axially then ratio of change in diameter to the original is called",
+    "options": "Longitudinal strain",
+    "optionsa": "shear strain",
+    "optionb": "Volumetric strain",
+    "optionc": "lateral strain",
+    "answer": "lateral strain"
+  },
+  {
+    "question": "Young’s modulus of elasticity for a perfectly rigid body is",
+    "options": "zero",
+    "optionsa": "unity",
+    "optionb": "infinity",
+    "optionc": "none of these",
+    "answer": "infinity"
+  },
+  {
+    "question": "Which of the following materials is expected to have the least value of Young’s modulus of elasticity?",
+    "options": "wood",
+    "optionsa": "copper",
+    "optionb": "glass",
+    "optionc": "Aluminium",
+    "answer": "wood"
+  },
+  {
+    "question": "Which material has the highest value of Poisson’s ratio?",
+    "options": "Rubber",
+    "optionsa": "Wood",
+    "optionb": "Copper",
+    "optionc": "Steel",
+    "answer": "Rubber"
+  },
+  {
+    "question": "True stress represents the ratio of",
+    "options": "average load and average area",
+    "optionsa": "average load and maximum area",
+    "optionb": "maximum load and maximum area",
+    "optionc": "instantaneous load and instantaneous area",
+    "answer": "instantaneous load and instantaneous area"
+  },
+  {
+    "question": "The area under the stress strain curve represents",
+    "options": "breaking strength of material",
+    "optionsa": "toughness of material",
+    "optionb": "hardness of material",
+    "optionc": "energy required to cause failure",
+    "answer": "toughness of material"
+  },
+  {
+    "question": "If a bar of length l breadth b and thickness t subjected to an axial pull or tension P then resulting volumetric strain will be equal to",
+    "options": "∈1-2μ",
+    "optionsa": "2∈1-μ",
+    "optionb": "∈(1+2μ)",
+    "optionc": "3∈",
+    "answer": "∈(1+2μ)"
+  },
+  {
+    "question": "Tangential or shear stress on an oblique plane at an angle ∅ to the cross-section of the bar subjected to uniaxial stress σx is equal to",
+    "options": "σx/2sin2∅",
+    "optionsa": "σx sin2 ∅",
+    "optionb": "σx cos 2∅",
+    "optionc": "σxcos∅",
+    "answer": "σx/2sin2∅"
+  },
+  {
+    "question": "For an element under the effect of biaxial state of normal stress the normal stresses on a 45° plane is equal to",
+    "options": "difference of normal stresses",
+    "optionsa": "sum of normal stresses",
+    "optionb": "half of the sum of normal stresses",
+    "optionc": "half of the difference of normal stresses",
+    "answer": "half of the sum of normal stresses"
+  },
+  {
+    "question": "The bending moment for a certain portion of the beam is constant. For that section shear force would be",
+    "options": "zero",
+    "optionsa": "increasing",
+    "optionb": "decreasing",
+    "optionc": "constant",
+    "answer": "zero"
+  },
+  {
+    "question": "Which of the following beam is likely to have the point of contraflexure?",
+    "options": "Cantilever beam",
+    "optionsa": "Simply supported beam",
+    "optionb": "Beam with overhangs",
+    "optionc": "Beam fixed at both ends",
+    "answer": "Beam with overhangs"
+  },
+  {
+    "question": "An increase in load at the free end of a cantilever is likely to cause failure",
+    "options": "at the free end",
+    "optionsa": "at the mid of its length",
+    "optionb": "at the fixed support end",
+    "optionc": "anywhere on the beam",
+    "answer": "at the fixed support end"
+  },
+  {
+    "question": "A horizontal beam with square cross-section is simply supported with sides of the square horizontal and vertical and carries a distributed loading that produces maximum bending stress σ in the beam. When beam is placed with one of the diagonals horizontal then maximum bending stress will be",
+    "options": "1/√2 σ",
+    "optionsa": "σ",
+    "optionb": "√2 σ",
+    "optionc": "2 σ",
+    "answer": "σ"
+  },
+  {
+    "question": "If according to the maximum shear stress theory of failure permissible twisting moment in a circular shaft is ‘T’ then permissible twisting moment in the same shaft as per maximum principal stress theory of failure will be",
+    "options": "T/2",
+    "optionsa": "T",
+    "optionb": "2T",
+    "optionc": "2 T",
+    "answer": "T"
+  },
+  {
+    "question": "The state of plane stress at a point is described by σx = σy = σ and πxy = 0. The normal stress on the plane inclined at 45° to the x-plane will be",
+    "options": "σ",
+    "optionsa": "√2σ",
+    "optionb": "3σ",
+    "optionc": "2σ",
+    "answer": "σ"
+  },
+  {
+    "question": "State of stress in two dimensions at a point in a loaded component can be completely specified by indication the normal and shear stresses on",
+    "options": "a plane containing the point",
+    "optionsa": "any two planes passing through the point",
+    "optionb": "two mutually perpendicular planes passing through the point",
+    "optionc": "all of these",
+    "answer": "two mutually perpendicular planes passing through the point"
+  },
+  {
+    "question": "The number of independent elastic constants required to express the stress-strain relationship for a linearly elastic isotropic material is",
+    "options": "One",
+    "optionsa": "Two",
+    "optionb": "Three",
+    "optionc": "Four",
+    "answer": "Two"
+  },
+  {
+    "question": "A simply supported beam is loaded as shown in the above figure. The maximum shear force in the beam will be",
+    "options": "Zero",
+    "optionsa": "W",
+    "optionb": "2W",
+    "optionc": "4W",
+    "answer": "W"
+  },
+  {
+    "question": "Bending moment equation as a function of distance x measured from the left end for a simply supported supported beam of span L m carrying a uniformly distributed load of intensity ω N/m will be given by",
+    "options": "M = ωL^2 (L – x) - ω/2  (L – x)^2 N – m",
+    "optionsa": "M = ωL^2 x - ω/2  x^2 N – m",
+    "optionb": "M = ωL^2  (L – x)^2 - ω/2  (L – x)^3 N – m",
+    "optionc": "M = ωx^2/2 - ωL x^2/2 N – m",
+    "answer": "M = ωL^2 x - ω/2  x^2 N – m"
+  },
+  {
+    "question": "Two beam of equal cross-sectional area are subject to equal bending moment. If one beam has square cross-section and the other has circular section then",
+    "options": "Both beams will be equally strong",
+    "optionsa": "circular section beam will be stronger",
+    "optionb": "Square section beam will be stronger",
+    "optionc": "The strength of the beam will depend on the nature of loading",
+    "answer": "Square section beam will be stronger"
+  },
+  {
+    "question": "A cantilever beam of rectangular cross-section is subjected to a load W at its free end. If depth of then deflection of the free end as compared to original deflection will be",
+    "options": "Half",
+    "optionsa": "One-eighth",
+    "optionb": "One-sixteenth",
+    "optionc": "Double",
+    "answer": "One-eighth"
+  },
+  {
+    "question": "Which portions of the loaded beam shown in the given figure is subjected to pure bending?",
+    "options": "AB",
+    "optionsa": "DE",
+    "optionb": "AE",
+    "optionc": "BD",
+    "answer": "BD"
+  },
+  {
+    "question": "A solid circular shaft is subjected to pure torsion. The ratio of maximum shear to maximum normal stress at any point would be",
+    "options": "1 : 1",
+    "optionsa": "1 : 2",
+    "optionb": "2 : 1",
+    "optionc": "2 : 3",
+    "answer": "2 : 1"
+  },
+  {
+    "question": "Which one of the following figures represents the maximum shear stress theory or Tresca criterion?",
+    "options": "Circle",
+    "optionsa": "Square",
+    "optionb": "Triangle",
+    "optionc": "Hexagon",
+    "answer": "Hexagon"
+  },
+  {
+    "question": "A column of square section 40 mm x 40 mm fixed to the ground carries an eccentric load P of 1600 N as shown in the figure. If stress developed along the edge CD is -1.2 N/mm^2 the stress along the edge AB will be",
+    "options": "-1.2 N/mm^2",
+    "optionsa": "+1 N/mm^2",
+    "optionb": "+0.8 N/mm^2",
+    "optionc": "-0.8 N/mm^2",
+    "answer": "+1 N/mm^2"
+  },
+  {
+    "question": "A loaded beam is shown in the given figure. The bending moment diagram of the beam is best represented as",
+    "options": "A parabola",
+    "optionsa": "A straight line",
+    "optionb": "A cubic curve",
+    "optionc": "A rectangular",
+    "answer": "A parabola"
+  },
+  {
+    "question": "Plane stress at a point in a body is defined by principal stresses 3σ and σ. The ratio of normal stress to the maximum shear stress on the plane of maximum shear stress is",
+    "options": "1",
+    "optionsa": "2",
+    "optionb": "3",
+    "optionc": "4",
+    "answer": "1"
+  },
+  {
+    "question": "Bending moment distribution in a built beam is shown in the given figure. The shear force distribution in the beam is represented by",
+    "options": "A parabola",
+    "optionsa": "A straight line",
+    "optionb": "A cubic curve",
+    "optionc": "A rectangular",
+    "answer": "A straight line"
+  },
+  {
+    "question": "The diameter of shaft A is twice the diameter of shaft B and both are made of the same material. Assuming both the shafts to rotate at the same speed the maximum power transmitted by B is",
+    "options": "the same as that of A",
+    "optionsa": "half of A",
+    "optionb": "1/8th of A",
+    "optionc": "1/4th of A",
+    "answer": "1/8th of A"
+  },
+  {
+    "question": "A short column of symmetric cross section made of a brittle material is subjected to an eccentric vertical load P at an eccentricity e should be less than or equal to",
+    "options": "h/12",
+    "optionsa": "h/6",
+    "optionb": "h/3",
+    "optionc": "h/2",
+    "answer": "h/6"
+  },
+  {
+    "question": "A mild steel bar is in three parts each 20 cm long. The diameters of parts AB BC and CD are 2 cm 1 cm and 3 cm respectively. The bar is subjected to an axial pull of 4t as shown in the given figure. If E = 2 x 10^6 kg/cm^2 and elongations in the three part of the bar are ∆1 ∆2 and ∆3 respectively then ratio of the greatest to the least of these elongations will be",
+    "options": "9",
+    "optionsa": "4",
+    "optionb": "3",
+    "optionc": "2",
+    "answer": "9"
+  },
+  {
+    "question": "A cylindrical bar of 20 mm diameter and 1 m length is subjected to a tensile test. Its longitudinal strain is 4 times that of its lateral strain. If modulus of elasticity is 2 x 10^5 N/mm^2 then its modulus of rigidity will be",
+    "options": "8 x 10^6 N/mm^2",
+    "optionsa": "8 x 10^5 N/mm^2",
+    "optionb": "0.8 x 10^4 N/mm^2",
+    "optionc": "0.8 x 10^5 N/mm^2",
+    "answer": "0.8 x 10^5 N/mm^2"
+  },
+  {
+    "question": "If a member is subjected to tensile stress Px compressive stress of Py and tensile stress of Pz along the x y and z-direction respectively then the resultant strain ‘ex’ along the x-direction would be (E is young’s modulus of elasticity, µ is poisson’s ratio)",
+    "options": "1/E (Px + μPy - μPz)",
+    "optionsa": "1/E (Px + μPy + μPz)",
+    "optionb": "1/E (Px - μPy + μPz)",
+    "optionc": "1/E (Px - μPy - μPz)",
+    "answer": "1/E (Px - μPy - μPz)"
+  },
+  {
+    "question": "In a stressed body an elementary cube of material is taken at a point with its faces perpendicular to x and y-reference axes. Tensile stress equal to 15 kN/cm^2 and 9 kN/cm^2 are observed on these respective faces. They are also accompanied by shear stress equal to 4 kN/cm^2. The magnitude of the principal stresses at the point are",
+    "options": "12 kN/cm^2 tensile and 3 kN/cm^2 tensile",
+    "optionsa": "17 kN/cm^2 tensile and 7 kN/cm^2 tensile",
+    "optionb": "9.5 kN/cm^2 compressive and 6.5 kN/cm^2 compressive",
+    "optionc": "19 kN/cm^2 tensile and 13 kN/cm^2 compressive",
+    "answer": "17 kN/cm^2 tensile and 7 kN/cm^2 tensile"
+  },
+  {
+    "question": "The rectangular block shown in given figure is subjected to pure shear of intensity ‘q’. If BE represents the principal plane and the principal stresses are σ1 and σ2 then the value of θ σ1 and σ2 will be respectively",
+    "options": "0°, +q and –q",
+    "optionsa": "80°, +q and –q",
+    "optionb": "45°, +q/2 and -q/2",
+    "optionc": "45°, +q and –q",
+    "answer": "45°, +q and –q"
+  },
+  {
+    "question": "If principal stresses at a point in a strained material are P1 and P2 then resultant stress Pr on the plane carrying maximum shear would be",
+    "options": "√(P1^2 + P2^2)",
+    "optionsa": "√(P1^2 + P2^2)/2",
+    "optionb": "2√(P1^2 + P2^2)",
+    "optionc": "√(P1^2 + P2^2)",
+    "answer": "√(P1^2 + P2^2)/2"
+  },
+  {
+    "question": "If a prismatic member having area of cross-section ‘A’ is subjected to a tensile load ‘P’ then maximum shear stress and its inclination with direction of load will be",
+    "options": "P/A and 45°",
+    "optionsa": "2P/A and 45°",
+    "optionb": "P/2A and 45°",
+    "optionc": "P/A and 60°",
+    "answer": "P/2A and 45°"
+  },
+  {
+    "question": "The state of stresses on an element is shown in the given figure. Values of stress are σx (=32MPa); σy (= -10 MPa) and major principal stress σ1 (= 40 MPa). The minor principal stress ‘σ2’ is",
+    "options": "– 22 MPa",
+    "optionsa": "– 18 MPa",
+    "optionb": "22 MPa",
+    "optionc": "Independent due to insufficient data",
+    "answer": "– 18 MPa"
+  },
+  {
+    "question": "If a body is subjected to two normal strains of magnitude εx = 0.003 and εy = 0.002 then shearing strain on a plane inclined at 30° with εx strain is",
+    "options": "√(3/2) x 10^-3",
+    "optionsa": "√(3/4) x 10^-3",
+    "optionb": "1/2 x 10^-3",
+    "optionc": "1/4 x 10^-3",
+    "answer": "√(3/2) x 10^-3"
+  },
+  {
+    "question": "A point in a structure there are two mutually perpendicular tensile stresses of 800 kg/cm^2 and 400 kg/cm^2. If Poisson’s ratio is μ = 0.25 what would be the equivalent stress in simple tension according to maximum principal strain theory?",
+    "options": "1200 kg/cm^2",
+    "optionsa": "900 kg/cm^2",
+    "optionb": "700 kg/cm^2",
+    "optionc": "400 kg/cm^2",
+    "answer": "900 kg/cm^2"
+  },
+  {
+    "question": "The cross-section of a beam is shown in figure I. Its Ixx  = 3 x 10^6 mm^4. It is subjected to a load as shown in figure II. The maximum tensile stress in the beam would be",
+    "options": "Indeterminable as data is insufficient",
+    "optionsa": "21 MN/m^2",
+    "optionb": "21 kN/m^2",
+    "optionc": "21 N/m^2",
+    "answer": "Indeterminable as data is insufficient"
+  },
+  {
+    "question": "The cross-section of a timber beam with a steel strip is shown in the given figure. It is subjected to a sagging bending moment of 1000 N-m Ixx = 1250 x 10^4 mm^4 and modulus ratio ‘m’ = 20. The stress at lower surface of timber ‘σt’ and steel ‘σs’ will be respectively",
+    "options": "+ 6.4 MN/m^2 and – 6.4 MN/m^2",
+    "optionsa": "– 6.4 MN/m^2 and – 32 MN/m^2",
+    "optionb": "+ 6.4 MN/m^2 and – 32 MN/m^2",
+    "optionc": "+ 32 MN/m^2 and – 6.4 MN/m^2",
+    "answer": "+ 6.4 MN/m^2 and – 32 MN/m^2"
+  },
+  {
+    "question": "A test is conducted on a beam loaded by end couples. The fibers at layers CD are found to length by 0.03 mm and fibers at layers AB shorten by 0.09 mm is 20 mm gauge length as shown in given figure. Taking E = 2 x 10^5 N/mm^2 the flexural stress at top fibers would be",
+    "options": "900N/mm^2 tensile",
+    "optionsa": "1000 N/mm^2 tensile",
+    "optionb": "1200N/mm^2 tensile",
+    "optionc": "1200N/mm^2 compressive",
+    "answer": "1200N/mm^2 tensile"
+  },
+  {
+    "question": "A beam has a solid circular cross-section having diameter ‘d’. If a section of the beam is subjected to a shear force F then maximum shear stress in the cross-section is given by",
+    "options": "4/3 F/πd^2",
+    "optionsa": "16F/3πd^2",
+    "optionb": "8/3 F/πd^2",
+    "optionc": "3/16 F/πd^2",
+    "answer": "4/3 F/πd^2"
+  },
+  {
+    "question": "A uniform bar circular in cross-section when simply supported on a span of one metre is found to deflect one centimetre due to a central load of 960 kg. Its self weight is negligible. Euler’s critical load on the bar when used in a column two metres long with pinned ends will be",
+    "options": "400 π^2 kg",
+    "optionsa": "500 π^2 kg",
+    "optionb": "100 π^2 kg",
+    "optionc": "2000 π^2 kg",
+    "answer": "100 π^2 kg"
+  },
+  {
+    "question": "A short column of external diameter ‘D’ is subjected to load ‘W’ with an eccentricity ‘e’ causing zero stress at an extreme fibre. Then the value of ‘e’ must be",
+    "options": "D^2 + d^2/8πD",
+    "optionsa": "D^2 + d^2/8D",
+    "optionb": "D^2 - d^2/8D",
+    "optionc": "D^3 - d^3/8D^2",
+    "answer": "D^2 - d^2/8D"
+  },
+  {
+    "question": "A reinforced concrete footing loaded with a concentrated load ‘P’ as shown in the given figure produces maximum bending stresses of 10 kN/m^2 and 15 kN/m^2 due to eccentricities about XX and YY axes respectively. If direct stress due to load acting at P is 18 kN/m^2 (compressive) then intensity of resultant stress at corner B will be",
+    "options": "13 kN/m^2 (tensile)",
+    "optionsa": "13 kN/m^2 (compressive)",
+    "optionb": "31 kN/m^2 (compressive)",
+    "optionc": "31 kN/m^2 (tensile)",
+    "answer": "31 kN/m^2 (compressive)"
+  },
+  {
+    "question": "Rectangular column shown in the figure carries a load ‘P’ having eccentricities ex and ey along x-axis and y-axis respectively. The stress at any point (xy) is given by",
+    "options": "P/bd [1+ 12 ey . y/e^2 + 12 ex . x/b^2]",
+    "optionsa": "P/bd [1+ 12 ey . y/b^2 + 12 ex . x/b^2]",
+    "optionb": "P/bd [1+ 6 ey . y/d^2 + 6 ex . x/b^2]",
+    "optionc": "P/bd [1+ 6 ey . y/e^2 + 6 ex . x/b^2]",
+    "answer": "P/bd [1+ 6 ey . y/d^2 + 6 ex . x/b^2]"
+  },
+  {
+    "question": "A solid circular shaft is subjected to a torque ‘T’ Nm/mm^2 in the shaft. The required diameter of the shaft would be",
+    "options": "10√(16T/πf)",
+    "optionsa": "10πf√(16T/18)",
+    "optionb": "10√(16T/πf)",
+    "optionc": "10πf√(16T/12)",
+    "answer": "10√(16T/πf)"
+  },
+  {
+    "question": "A section of solid circular shaft with diameter D is subjected to bending moment ‘M’ and torque ‘T’. The expression for maximum principal stress at the section is",
+    "options": "2M+T/πD^3",
+    "optionsa": "16/πD^3(M+M^2+√T^2)",
+    "optionb": "16/πD^3(M^2+√T^2)",
+    "optionc": "16/πD^3(M+M^2+√T^2)",
+    "answer": "16/πD^3(M+M^2+√T^2)"
+  },
+  {
+    "question": "Bending moment diagram of the beam shown in the given figure is",
+    "options": "A parabola",
+    "optionsa": "A straight line",
+    "optionb": "A cubic curve",
+    "optionc": "A rectangular",
+    "answer": "A parabola"
+  },
+  {
+    "question": "BMD and SFD for a beam are shown in the given Fig. I and Fig. II. The corresponding loading diagram would be",
+    "options": "A parabola",
+    "optionsa": "A straight line",
+    "optionb": "A cubic curve",
+    "optionc": "A rectangular",
+    "answer": "A straight line"
+  },
+  {
+    "question": "Bending moment diagram of the beam shown in the figure is",
+    "options": "A parabola",
+    "optionsa": "A straight line",
+    "optionb": "A cubic curve",
+    "optionc": "A rectangular",
+    "answer": "A parabola"
+  },
+  {
+    "question": "In the given figure the maximum bending moment at the fixed end of the cantilever caused by the UDL is M. The bending moment at a section 1/5 from the free end is",
+    "options": "4% of M",
+    "optionsa": "5% of M",
+    "optionb": "10% of M",
+    "optionc": "20% of M",
+    "answer": "4% of M"
+  },
+  {
+    "question": "A fixed beam AB of length ‘l’ having constant flexural rigidity EI carries two loads P at its third point C and B as shown in the figure. Numerically maximum B.M will occur",
+    "options": "at C and D will be equal to 2P/9",
+    "optionsa": "between C and D and will equal to P/9",
+    "optionb": "at A and at B and will be equal to 2P/9",
+    "optionc": "between A and C and also between B and D and will be equal to P/9",
+    "answer": "at A and at B and will be equal to 2P/9"
+  },
+  {
+    "question": "For a cantilever beam span L and flexural rigidity EI it carries UDL w per unit length the deflection at free end is given by",
+    "options": "wL^3/8EI",
+    "optionsa": "wL^2/24EI",
+    "optionb": "wL^4/8EI",
+    "optionc": "wL^3/12EI",
+    "answer": "wL^3/8EI"
+  },
+  {
+    "question": "If a circular shaft is subjected to a torque T which is half of the bending moment applied then the ratio of maximum bending stress and maximum shear stress is",
+    "options": "2",
+    "optionsa": "1",
+    "optionb": "0.5",
+    "optionc": "None of the above",
+    "answer": "2"
+  },
+  {
+    "question": "At a point in a steel member major & minor principal stress is 1000 kg/cm2 and minor principal stress is compressive. If uniaxial tensile yield stress is 1500 kg/cm2 then magnitude of minor principal stress at which yielding will commence according to maximum shearing stress theory is",
+    "options": "1000 kg/cm2",
+    "optionsa": "500 kg/cm2",
+    "optionb": "750 kg/cm2",
+    "optionc": "1500 kg/cm2",
+    "answer": "750 kg/cm2"
+  },
+  {
+    "question": "Given EI =1100 wL3 where w is central load as well as total udl load acting on the span. The deflection when a udl equal to w and a concentrated load w is acting centrally to a simply supported load is",
+    "options": "1100 wL3",
+    "optionsa": "550 wL3",
+    "optionb": "2200 wL3",
+    "optionc": "3300 wL3",
+    "answer": "550 wL3"
+  },
+  {
+    "question": "If an element of a stressed body is in a state of pure shear with a magnitude of 40N/mm2 then magnitude of maximum principal stress at that location is",
+    "options": "40 N/mm2",
+    "optionsa": "80 N/mm2",
+    "optionb": "20 N/mm2",
+    "optionc": "60 N/mm2",
+    "answer": "40 N/mm2"
+  },
+  {
+    "question": "A circular shaft is subjected to a vertical downward load causing bending moment twisting moment and axial thrust. The maximum principal stress would occur at point",
+    "options": "At the top of the cross section",
+    "optionsa": "At the bottom of the cross section",
+    "optionb": "At the neutral axis",
+    "optionc": "At the center of the cross section",
+    "answer": "At the bottom of the cross section"
+  },
+  {
+    "question": "A cylindrical shell made of mild steel plate of 100 cm dia is to be subjected to an internal pressure of 10 kg/cm2. If material yields at 2000 kg/cm2 assuming factor of safety as 4 and using maximum principal stress theory thickness of the plate will be",
+    "options": "0.25 cm",
+    "optionsa": "0.5 cm",
+    "optionb": "0.75 cm",
+    "optionc": "1 cm",
+    "answer": "0.25 cm"
+  },
+  {
+    "question": "A prismatic beam fixed at the both ends carries a uniformly distributed load. The ratio of bending moment at supports to bending moment at midspan is",
+    "options": "2",
+    "optionsa": "1",
+    "optionb": "0.5",
+    "optionc": "None of the above",
+    "answer": "2"
+  },
+  {
+    "question": "If tensile stresses of 50kN/m2 and 40 kN/m2 are acting at rights angles to each other on a piece of material then resultant stress on a plane the normal of which makes an angle 45 with 50kN/m2 will be",
+    "options": "10 kN/m2",
+    "optionsa": "45 kN/m2",
+    "optionb": "50 kN/m2",
+    "optionc": "60 kN/m2",
+    "answer": "45 kN/m2"
+  },
+  {
+    "question": "If crushing stress in the material of a mild steel column is 3000 kg/cm2 and E = 2 x 106 kg/cm2 Euler’s formula for cripling load is applicable for slenderness ratio equal to or greater than",
+    "options": "120",
+    "optionsa": "150",
+    "optionb": "200",
+    "optionc": "250",
+    "answer": "120"
+  },
+  {
+    "question": "Poisson’s ratio for most of the materials is close to",
+    "options": "0.3",
+    "optionsa": "0.25",
+    "optionb": "0.2",
+    "optionc": "0.15",
+    "answer": "0.3"
+  },
+  {
+    "question": "The moment at point A of given figure will be",
+    "options": "10 kN",
+    "optionsa": "20 kN",
+    "optionb": "30 kN",
+    "optionc": "40 kN",
+    "answer": "30 kN"
+  },
+  {
+    "question": "If diameter of a long column is reduced by 20% then percentage of reduction in Euler buckling load is",
+    "options": "36%",
+    "optionsa": "50%",
+    "optionb": "60%",
+    "optionc": "64%",
+    "answer": "36%"
+  },
+  {
+    "question": "With one fixed end and other free end a column of length L buckling at load P1. Another column of same length and same cross-section fixed at both ends buckles at load P2 P1 is",
+    "options": "2P2",
+    "optionsa": "4P2",
+    "optionb": "P2/2",
+    "optionc": "P2/4",
+    "answer": "P2/4"
+  },
+  {
+    "question": "A horizontal beam carrying uniformly distributed load is supported with equal overhangs as shown in the given figure. The resultant bending moment at the midspan shell be zero if a = b",
+    "options": "0.5L",
+    "optionsa": "L/2",
+    "optionb": "L/4",
+    "optionc": "2L",
+    "answer": "L/4"
+  },
+  {
+    "question": "The ratio of young’s modulus of rigidity for a material having Poisson’s ratio 0.2 is",
+    "options": "0.4166666667",
+    "optionsa": "0.5",
+    "optionb": "0.3",
+    "optionc": "0.2",
+    "answer": "0.4166666667"
+  },
+  {
+    "question": "A steel cube of volume 8000 cc is subjected to an all round stress of 1330 kg/cm2. If bulk modulus of the material is 1.33 x 106 kg/cm2 then volumetric change is",
+    "options": "8 cc",
+    "optionsa": "10 cc",
+    "optionb": "12 cc",
+    "optionc": "14 cc",
+    "answer": "8 cc"
+  },
+  {
+    "question": "A thin cylindrical steel pressure vessel of diameter 6 cm and wall thickness 3mm is subjected to an internal fluid pressure of intensity p. If ultimate strength of steel is 3600 kg/cm2 then bursting pressure will be",
+    "options": "240 kg/cm2",
+    "optionsa": "300 kg/cm2",
+    "optionb": "360 kg/cm2",
+    "optionc": "480 kg/cm2",
+    "answer": "240 kg/cm2"
+  },
+  {
+    "question": "A certain steel has proportionality limit of 3000 kg/cm2 in simple tension. It is subjected to principle stresses of 1200 kg/cm2 (tensile) 600kg/cm2 (tensile) and 300kg/cm2 (comparative). What would be the factor of safety according to maximum shear stress theory?",
+    "options": "2.5",
+    "optionsa": "3",
+    "optionb": "4",
+    "optionc": "5",
+    "answer": "2.5"
+  },
+  {
+    "question": "A cantilever beam is 2m long. The cross-section of the beam is hollow square with external sides 60mm and internal side is such that 1 = 6 x 105 mm4. If safe bending stress for the material is 100 N/mm2 then safe concentrated load at the free end would be",
+    "options": "1000 N",
+    "optionsa": "1200 N",
+    "optionb": "1500 N",
+    "optionc": "2000 N",
+    "answer": "1200 N"
+  },
+  {
+    "question": "A beam has a triangular cross-section having base 40mm and altitude 60mm. If this section is subjected to a shear force of 36000N then maximum shear stress in the cross-section would be",
+    "options": "10 N/mm2",
+    "optionsa": "15 N/mm2",
+    "optionb": "20 N/mm2",
+    "optionc": "25 N/mm2",
+    "answer": "20 N/mm2"
+  }
+]
